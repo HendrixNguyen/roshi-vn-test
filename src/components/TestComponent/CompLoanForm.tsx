@@ -12,7 +12,6 @@ export const CompLoanForm: React.FC = () => {
   const [amount, setAmount] = useState<number>(5000000);
   const [monthlyInterestRate, setMonthlyInterestRate] = useState<number>(0);
   const [loanTenureMonths, setloanTenureMonths] = useState<number>(3);
-  const [sum, SetSumAll] = useState<number>(0);
 
   function calculateEMI(loanAmount: number, monthlyInterestRate: number, loanTenureMonths: number): number {
     if (monthlyInterestRate === 0) {
