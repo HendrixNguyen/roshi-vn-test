@@ -1,0 +1,17 @@
+{
+  "singleQuote": false,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "bracketSameLine": false,
+  "printWidth": 120,
+  "bracketSpacing": true,
+  "tabWidth": 2,
+  "useTabs": false,
+  "plugins": [
+    "prettier-plugin-tailwindcss"
+  ],
+  "tailwindFunctions": [
+    "clsx",
+    "cva"
+  ]
+}

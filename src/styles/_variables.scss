@@ -1,0 +1,109 @@
+:root {
+  --color-primary-50: 241 251 246;
+  --color-primary-100: 219 253 237;
+  --color-primary-200: 184 250 219;
+  --color-primary-300: 129 244 191;
+  --color-primary-400: 68 228 154;
+  --color-primary-500: 26 197 119;
+  --color-primary-600: 16 169 99;
+  --color-primary-700: 16 133 81;
+  --color-primary-800: 19 104 66;
+  --color-primary-900: 17 86 56;
+  --color-primary-950: 3 48 30;
+
+  --color-secondary-50: 244 239 249;
+  --color-secondary-100: 242 236 251;
+  --color-secondary-200: 231 220 248;
+  --color-secondary-300: 213 192 242;
+  --color-secondary-400: 188 151 233;
+  --color-secondary-500: 161 110 222;
+  --color-secondary-600: 139 79 206;
+  --color-secondary-700: 118 61 179;
+  --color-secondary-800: 100 54 147;
+  --color-secondary-900: 79 43 114;
+  --color-secondary-950: 54 21 86;
+
+  --color-secondary-purple-light: var(--color-secondary-50);
+  --color-secondary-purple-lighter: 252 249 255;
+  --color-secondary-purple-footer: 40 40 62;
+
+  --color-neutral-50: 247 247 247;
+  --color-neutral-100: 234 234 234;
+  --color-neutral-200: 219 219 219;
+  --color-neutral-300: 197 197 197;
+  --color-neutral-400: 162 162 162;
+  --color-neutral-500: 136 136 136;
+  --color-neutral-600: 117 115 115;
+  --color-neutral-700: 101 99 99;
+  --color-neutral-800: 88 86 86;
+  --color-neutral-900: 72 72 72;
+  --color-neutral-950: 31 31 31;
+
+  --color-neutral-stroke: 223 223 223;
+
+  --color-neutral-body-1: 84 84 84;
+  --color-neutral-body-2: 103 103 103;
+  --color-neutral-body-3: 123 123 123;
+
+  --color-neutral-grey-light: 237 237 237;
+  --color-neutral-grey-lighter: var(--color-neutral-50);
+
+  --color-success-50: 246 255 249;
+  --color-success-100: 218 254 229;
+  --color-success-200: 183 251 205;
+  --color-success-300: 126 247 167;
+  --color-success-400: 63 233 121;
+  --color-success-500: 22 209 86;
+  --color-success-600: 13 191 74;
+  --color-success-700: 13 136 56;
+  --color-success-800: 16 107 49;
+  --color-success-900: 15 88 42;
+  --color-success-950: 2 49 20;
+
+  --color-warning-50: 255 252 235;
+  --color-warning-100: 255 246 198;
+  --color-warning-200: 255 235 136;
+  --color-warning-300: 255 235 136;
+  --color-warning-400: 255 201 32;
+  --color-warning-500: 246 164 0;
+  --color-warning-600: 221 127 2;
+  --color-warning-700: 183 90 6;
+  --color-warning-800: 149 68 11;
+  --color-warning-900: 122 56 13;
+  --color-warning-950: 70 29 2;
+
+  --color-alert-50: 255 241 241;
+  --color-alert-100: 255 228 228;
+  --color-alert-200: 254 205 208;
+  --color-alert-300: 254 163 169;
+  --color-alert-400: 252 112 123;
+  --color-alert-500: 246 78 96;
+  --color-alert-600: 226 28 58;
+  --color-alert-700: 191 17 48;
+  --color-alert-800: 160 17 48;
+  --color-alert-900: 137 18 47;
+  --color-alert-950: 76 5 20;
+
+  --color-white: 255 255 255;
+  --color-black: 0 0 0;
+
+  --color-background: var(--color-white);
+
+  --color-yellow-star: 253 213 98;
+
+  --color-text---light: 82 87 92;
+
+  --color-link: 47 128 237;
+
+  --boxShadow-1: 0px 6px 24px -3px rgba(49, 10, 89, 0.17);
+  --boxShadow-3: 0px 4px 12px -3px rgba(13, 1, 24, 0.08);
+  --boxShadow-header: 0px 2px 8px 0px rgba(43, 7, 8, 0.08);
+  --boxShadow-footer: 0px -2px 8px 0px rgba(43, 7, 8, 0.08);
+  --boxShadow-green-around: 0px 0px 12px 0px rgba(26, 197, 119, 0.16);
+  --boxShadow-purple-around: 0px 0px 10px 0px rgba(128, 117, 228, 0.2);
+  --boxShadow-purple-light: 0px 2px 12px -3px rgba(79, 43, 114, 0.12);
+  --boxShadow-2_1: 0px 3px 22px -3px rgba(49, 10, 89, 0.12);
+  --boxShadow-2_2: 0px 4px 16px -3px rgba(49, 10, 89, 0.1);
+  --boxShadow-dark-inset: 0px 0px 12px 0px rgba(0, 0, 0, 0.44) inset;
+  --boxShadow-tab-top: 0px -3px 8px 0px rgba(79, 43, 114, 0.11);
+}
